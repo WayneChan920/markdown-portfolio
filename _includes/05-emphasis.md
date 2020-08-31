@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- One `*` or `_` is _italic_
+- Two `**` or `__` is __blod__
+- Three `***` or `___` is _**italic and blod**_
+:star:
